@@ -1,2 +1,2 @@
 Spotify Clone
-Demo Link -> https://palakhanandi.io/Spotify-Clone/
+Demo Link -> https://palakhanandi/Spotify-Clone/
